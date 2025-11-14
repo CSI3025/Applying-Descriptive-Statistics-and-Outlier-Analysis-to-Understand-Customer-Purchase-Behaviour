@@ -1,0 +1,2 @@
+# Applying-Descriptive-Statistics-and-Outlier-Analysis-to-Understand-Customer-Purchase-Behaviour
+This project delivers comprehensive customer analytics by cleaning and processing data, exploring demographics and behaviors, performing KMeans clustering, running sentiment analysis on product reviews, and building predictive models for purchase amount, satisfaction, and churn to generate actionable marketing insights.
